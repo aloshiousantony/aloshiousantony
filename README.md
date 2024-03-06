@@ -6,24 +6,11 @@
 
 - 💬 Ask me about **flutter, dart**
 
-- 📫 How to reach me **dev.73arner@gmail.com**
+- 📫 How to reach me **aloshiousantony1080@gmail.com**
 
 - ⚡ Fun fact **Flutter = Future**
 
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirzaazmath&show_icons=true&locale=en&layout=compact" alt="mirzaazmath" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mirzaazmath&show_icons=true&locale=en" alt="mirzaazmath" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirzaazmath&" alt="mirzaazmath" /></p>
-
-
-
-
-
-- 📫 How to reach me **aloshiousantony1080@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
