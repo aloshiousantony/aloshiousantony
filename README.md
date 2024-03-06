@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aloshious</h1>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mirzaazmath" alt="mirzaazmath" /></a> </p>
 
 - 🌱 I’m currently learning **flutter**
 
