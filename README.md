@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aloshious</h1>
 [![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)](https://Mirzaazmath.io)
-<h1 align="center">Hi 👋, I'm Mirza Azmathullah Baig</h1>
-<h3 align="center">A passionate flutter developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/Mirzaazmath/threads_clone/blob/main/assets/output/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirzaazmath&label=Profile%20views&color=0e75b6&style=flat" alt="mirzaazmath" /> </p>
 
