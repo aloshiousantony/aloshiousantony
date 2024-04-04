@@ -1,10 +1,14 @@
+
+[![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/hammadx02)
+
+
+
+
 <h1 align="center">Hi 👋, I'm Aloshious</h1>
 
 
 
 - 🌱 I’m currently learning **flutter**
-
-- 💬 Ask me about **flutter, dart**
 
 - 📫 How to reach me **aloshiousantony1080@gmail.com**
 
